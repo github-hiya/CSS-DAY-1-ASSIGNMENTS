@@ -1,0 +1,86 @@
+.box{
+height: 450px;
+width: 500px;
+border:1.5px solid white;
+margin:0 auto;
+
+}
+h1{
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+.p1{
+font-family: sans-serif;
+font-weight: bold;
+text-align: center;
+margin-top: 30px;
+font-size: small;
+
+}
+input{
+    border-radius: 10px;
+    width:250px;
+    height: 25px;
+    padding: 5px;
+    border: 1.5px solid lightgray;
+    color: black;
+    
+    margin-bottom: 10px;
+    margin-left: 120px;
+    margin-right: 200px;
+
+}
+::placeholder{
+    color: black;
+}
+button{
+    background-color: black;
+    color: white;
+    border:none;
+    border-radius: 30px;
+    font-family: sans-serif;
+
+  
+    width: 200px;
+    height: 9px;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 25px;
+    padding-top: 15px;
+    margin-left: 150px;
+}
+.p2{
+    color: gray;
+    font-size: small;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 5px;
+   
+
+}
+a{
+    color: black;
+    font-size: medium;
+    text-align: center;
+}
+.footer{
+    color: gray;
+    font-size: x-small;
+    text-align: center;
+    margin: 30px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.a2{
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0;
+}
+.a3{
+  font-size: smaller;
+}
+a{
+    font-size: x-small;
+}
